@@ -1,0 +1,18 @@
+.op-description {
+    width: 100%;
+}
+
+.op-description-content {
+    width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+}
+
+.op-description-content p {
+    font-size: 20px;
+    font-family: 'Akshar', sans-serif;
+    text-align: justify;
+    letter-spacing: 3px;
+    line-height: 30px;
+    color: #1e1e1e;
+}
